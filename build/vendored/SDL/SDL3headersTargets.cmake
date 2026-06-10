@@ -50,7 +50,7 @@ unset(_cmake_expected_targets)
 add_library(SDL3::Headers INTERFACE IMPORTED)
 
 set_target_properties(SDL3::Headers PROPERTIES
-  INTERFACE_INCLUDE_DIRECTORIES "G:/fluidsimc/build/vendored/SDL/include-revision;G:/fluidsimc/vendored/SDL/include"
+  INTERFACE_INCLUDE_DIRECTORIES "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/include-revision;G:/gitrepos/FluidSimSDL3/vendored/SDL/include"
 )
 
 # This file does not depend on other imported targets which have

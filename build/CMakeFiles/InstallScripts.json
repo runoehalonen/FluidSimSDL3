@@ -1,8 +1,8 @@
 {
 	"InstallScripts" : 
 	[
-		"G:/fluidsimc/build/cmake_install.cmake",
-		"G:/fluidsimc/build/vendored/SDL/cmake_install.cmake"
+		"G:/gitrepos/FluidSimSDL3/build/cmake_install.cmake",
+		"G:/gitrepos/FluidSimSDL3/build/vendored/SDL/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

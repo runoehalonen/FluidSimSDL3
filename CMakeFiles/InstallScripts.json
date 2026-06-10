@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"G:/gitrepos/FluidSimSDL3/cmake_install.cmake",
+		"G:/gitrepos/FluidSimSDL3/vendored/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,1955 +1,1955 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\cmake_pch.cxx">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\cmake_pch.cxx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\cmake_pch.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\cmake_pch.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_assert.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_assert.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_error.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_error.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_guid.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_guid.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_hashtable.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_hashtable.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_hints.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_hints.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_list.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_list.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_log.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_log.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_properties.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_properties.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\SDL_utils.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_utils.c">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\atomic\SDL_atomic.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\atomic\SDL_atomic.c">
       <Filter>src\atomic</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\atomic\SDL_spinlock.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\atomic\SDL_spinlock.c">
       <Filter>src\atomic</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audio.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audio.c">
       <Filter>src\audio</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audiocvt.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audiocvt.c">
       <Filter>src\audio</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audiodev.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audiodev.c">
       <Filter>src\audio</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audioqueue.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audioqueue.c">
       <Filter>src\audio</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audioresample.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audioresample.c">
       <Filter>src\audio</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audiotypecvt.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audiotypecvt.c">
       <Filter>src\audio</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_mixer.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_mixer.c">
       <Filter>src\audio</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_wave.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_wave.c">
       <Filter>src\audio</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\camera\SDL_camera.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\camera\SDL_camera.c">
       <Filter>src\camera</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\core\SDL_core_unsupported.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\SDL_core_unsupported.c">
       <Filter>src\core</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\cpuinfo\SDL_cpuinfo.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\cpuinfo\SDL_cpuinfo.c">
       <Filter>src\cpuinfo</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\dynapi\SDL_dynapi.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\dynapi\SDL_dynapi.c">
       <Filter>src\dynapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_categories.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_categories.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_clipboardevents.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_clipboardevents.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_displayevents.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_displayevents.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_dropevents.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_dropevents.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_events.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_events.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_eventwatch.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_eventwatch.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_keyboard.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_keyboard.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_keymap.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_keymap.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_keysym_to_keycode.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_keysym_to_keycode.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_keysym_to_scancode.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_keysym_to_scancode.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_mouse.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_mouse.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_pen.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_pen.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_quit.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_quit.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_scancode_tables.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_scancode_tables.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_touch.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_touch.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\SDL_windowevents.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_windowevents.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\events\imKStoUCS.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\imKStoUCS.c">
       <Filter>src\events</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\filesystem\SDL_filesystem.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\filesystem\SDL_filesystem.c">
       <Filter>src\filesystem</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\gpu\SDL_gpu.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\SDL_gpu.c">
       <Filter>src\gpu</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\gpu\xr\SDL_gpu_openxr.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\xr\SDL_gpu_openxr.c">
       <Filter>src\gpu\xr</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\gpu\xr\SDL_openxrdyn.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\xr\SDL_openxrdyn.c">
       <Filter>src\gpu\xr</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\haptic\SDL_haptic.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\SDL_haptic.c">
       <Filter>src\haptic</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi.c">
       <Filter>src\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\io\SDL_asyncio.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\io\SDL_asyncio.c">
       <Filter>src\io</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\io\SDL_iostream.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\io\SDL_iostream.c">
       <Filter>src\io</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\io\generic\SDL_asyncio_generic.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\io\generic\SDL_asyncio_generic.c">
       <Filter>src\io\generic</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\SDL_gamepad.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\SDL_gamepad.c">
       <Filter>src\joystick</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\SDL_joystick.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\SDL_joystick.c">
       <Filter>src\joystick</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\SDL_steam_virtual_gamepad.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\SDL_steam_virtual_gamepad.c">
       <Filter>src\joystick</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\controller_type.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\controller_type.c">
       <Filter>src\joystick</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\locale\SDL_locale.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\locale\SDL_locale.c">
       <Filter>src\locale</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\main\SDL_main_callbacks.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\main\SDL_main_callbacks.c">
       <Filter>src\main</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\main\SDL_runapp.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\main\SDL_runapp.c">
       <Filter>src\main</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\misc\SDL_libusb.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\misc\SDL_libusb.c">
       <Filter>src\misc</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\misc\SDL_url.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\misc\SDL_url.c">
       <Filter>src\misc</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\power\SDL_power.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\power\SDL_power.c">
       <Filter>src\power</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\SDL_render.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\SDL_render.c">
       <Filter>src\render</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\SDL_render_unsupported.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\SDL_render_unsupported.c">
       <Filter>src\render</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\SDL_yuv_sw.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\SDL_yuv_sw.c">
       <Filter>src\render</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\direct3d\SDL_render_d3d.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d\SDL_render_d3d.c">
       <Filter>src\render\direct3d</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\direct3d\SDL_shaders_d3d.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d\SDL_shaders_d3d.c">
       <Filter>src\render\direct3d</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\direct3d11\SDL_render_d3d11.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d11\SDL_render_d3d11.c">
       <Filter>src\render\direct3d11</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\direct3d11\SDL_shaders_d3d11.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d11\SDL_shaders_d3d11.c">
       <Filter>src\render\direct3d11</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\SDL_render_d3d12.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\SDL_render_d3d12.c">
       <Filter>src\render\direct3d12</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\SDL_shaders_d3d12.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\SDL_shaders_d3d12.c">
       <Filter>src\render\direct3d12</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\gpu\SDL_pipeline_gpu.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\gpu\SDL_pipeline_gpu.c">
       <Filter>src\render\gpu</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\gpu\SDL_render_gpu.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\gpu\SDL_render_gpu.c">
       <Filter>src\render\gpu</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\gpu\SDL_shaders_gpu.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\gpu\SDL_shaders_gpu.c">
       <Filter>src\render\gpu</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\ngage\SDL_render_ngage.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\ngage\SDL_render_ngage.c">
       <Filter>src\render\ngage</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\opengl\SDL_render_gl.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengl\SDL_render_gl.c">
       <Filter>src\render\opengl</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\opengl\SDL_shaders_gl.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengl\SDL_shaders_gl.c">
       <Filter>src\render\opengl</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\opengles\SDL_render_gles.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengles\SDL_render_gles.c">
       <Filter>src\render\opengles</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\opengles2\SDL_render_gles2.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengles2\SDL_render_gles2.c">
       <Filter>src\render\opengles2</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\opengles2\SDL_shaders_gles2.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengles2\SDL_shaders_gles2.c">
       <Filter>src\render\opengles2</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\ps2\SDL_render_ps2.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\ps2\SDL_render_ps2.c">
       <Filter>src\render\ps2</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\psp\SDL_render_psp.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\psp\SDL_render_psp.c">
       <Filter>src\render\psp</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_blendfillrect.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_blendfillrect.c">
       <Filter>src\render\software</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_blendline.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_blendline.c">
       <Filter>src\render\software</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_blendpoint.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_blendpoint.c">
       <Filter>src\render\software</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_drawline.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_drawline.c">
       <Filter>src\render\software</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_drawpoint.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_drawpoint.c">
       <Filter>src\render\software</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_render_sw.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_render_sw.c">
       <Filter>src\render\software</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_triangle.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_triangle.c">
       <Filter>src\render\software</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm.c">
       <Filter>src\render\vitagxm</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_memory.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_memory.c">
       <Filter>src\render\vitagxm</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_tools.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_tools.c">
       <Filter>src\render\vitagxm</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\vulkan\SDL_render_vulkan.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vulkan\SDL_render_vulkan.c">
       <Filter>src\render\vulkan</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\render\vulkan\SDL_shaders_vulkan.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vulkan\SDL_shaders_vulkan.c">
       <Filter>src\render\vulkan</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\sensor\SDL_sensor.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\sensor\SDL_sensor.c">
       <Filter>src\sensor</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_crc16.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_crc16.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_crc32.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_crc32.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_getenv.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_getenv.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_iconv.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_iconv.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_malloc.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_malloc.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_memcpy.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_memcpy.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_memmove.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_memmove.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_memset.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_memset.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_mslibc.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_mslibc.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_murmur3.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_murmur3.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_qsort.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_qsort.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_random.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_random.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_stdlib.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_stdlib.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_string.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_string.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_strtokr.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_strtokr.c">
       <Filter>src\stdlib</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\storage\SDL_storage.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\storage\SDL_storage.c">
       <Filter>src\storage</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\SDL_thread.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\SDL_thread.c">
       <Filter>src\thread</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\time\SDL_time.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\time\SDL_time.c">
       <Filter>src\time</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\timer\SDL_timer.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\timer\SDL_timer.c">
       <Filter>src\timer</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_RLEaccel.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_RLEaccel.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_0.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_0.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_1.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_1.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_A.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_A.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_N.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_N.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_auto.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_auto.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_copy.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_copy.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_slow.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_slow.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_bmp.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_bmp.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_clipboard.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_clipboard.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_egl.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_egl.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_fillrect.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_fillrect.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_pixels.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_pixels.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_rect.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_rect.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_rotate.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_rotate.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_stb.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_stb.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_stretch.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_stretch.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_surface.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_surface.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_video.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_video.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_video_unsupported.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_video_unsupported.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_vulkan_utils.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_vulkan_utils.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\SDL_yuv.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_yuv.c">
       <Filter>src\video</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_lsx.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_lsx.c">
       <Filter>src\video\yuv2rgb</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_sse.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_sse.c">
       <Filter>src\video\yuv2rgb</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_std.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_std.c">
       <Filter>src\video\yuv2rgb</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\dummy\SDL_dummyaudio.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\dummy\SDL_dummyaudio.c">
       <Filter>src\audio\dummy</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\disk\SDL_diskaudio.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\disk\SDL_diskaudio.c">
       <Filter>src\audio\disk</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\camera\dummy\SDL_camera_dummy.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\camera\dummy\SDL_camera_dummy.c">
       <Filter>src\camera\dummy</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\virtual\SDL_virtualjoystick.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\virtual\SDL_virtualjoystick.c">
       <Filter>src\joystick\virtual</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\dummy\SDL_nullevents.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\dummy\SDL_nullevents.c">
       <Filter>src\video\dummy</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\dummy\SDL_nullframebuffer.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\dummy\SDL_nullframebuffer.c">
       <Filter>src\video\dummy</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\dummy\SDL_nullvideo.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\dummy\SDL_nullvideo.c">
       <Filter>src\video\dummy</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_gameinput.cpp">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_gameinput.cpp">
       <Filter>src\core\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_hid.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_hid.c">
       <Filter>src\core\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_immdevice.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_immdevice.c">
       <Filter>src\core\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_windows.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_windows.c">
       <Filter>src\core\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_xinput.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_xinput.c">
       <Filter>src\core\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\core\windows\pch.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\pch.c">
       <Filter>src\core\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\core\windows\pch_cpp.cpp">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\pch_cpp.cpp">
       <Filter>src\core\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\main\windows\SDL_sysmain_runapp.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\main\windows\SDL_sysmain_runapp.c">
       <Filter>src\main\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\io\windows\SDL_asyncio_windows_ioring.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\io\windows\SDL_asyncio_windows_ioring.c">
       <Filter>src\io\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\misc\windows\SDL_sysurl.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\misc\windows\SDL_sysurl.c">
       <Filter>src\misc\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\directsound\SDL_directsound.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\directsound\SDL_directsound.c">
       <Filter>src\audio\directsound</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\audio\wasapi\SDL_wasapi.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\wasapi\SDL_wasapi.c">
       <Filter>src\audio\wasapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsclipboard.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsclipboard.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsevents.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsevents.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsframebuffer.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsframebuffer.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsgameinput.cpp">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsgameinput.cpp">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowskeyboard.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowskeyboard.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsmessagebox.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsmessagebox.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsmodes.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsmodes.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsmouse.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsmouse.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsopengl.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsopengl.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsopengles.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsopengles.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsrawinput.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsrawinput.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsshape.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsshape.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsvideo.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsvideo.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsvulkan.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsvulkan.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowswindow.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowswindow.c">
       <Filter>src\video\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\generic\SDL_syscond.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\generic\SDL_syscond.c">
       <Filter>src\thread\generic</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\generic\SDL_sysrwlock.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\generic\SDL_sysrwlock.c">
       <Filter>src\thread\generic</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\windows\SDL_syscond_cv.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\windows\SDL_syscond_cv.c">
       <Filter>src\thread\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\windows\SDL_sysmutex.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\windows\SDL_sysmutex.c">
       <Filter>src\thread\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\windows\SDL_sysrwlock_srw.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\windows\SDL_sysrwlock_srw.c">
       <Filter>src\thread\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\windows\SDL_syssem.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\windows\SDL_syssem.c">
       <Filter>src\thread\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\windows\SDL_systhread.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\windows\SDL_systhread.c">
       <Filter>src\thread\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\thread\windows\SDL_systls.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\windows\SDL_systls.c">
       <Filter>src\thread\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\sensor\windows\SDL_windowssensor.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\sensor\windows\SDL_windowssensor.c">
       <Filter>src\sensor\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\power\windows\SDL_syspower.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\power\windows\SDL_syspower.c">
       <Filter>src\power\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\locale\windows\SDL_syslocale.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\locale\windows\SDL_syslocale.c">
       <Filter>src\locale\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\filesystem\windows\SDL_sysfilesystem.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\filesystem\windows\SDL_sysfilesystem.c">
       <Filter>src\filesystem\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\filesystem\windows\SDL_sysfsops.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\filesystem\windows\SDL_sysfsops.c">
       <Filter>src\filesystem\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\storage\generic\SDL_genericstorage.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\storage\generic\SDL_genericstorage.c">
       <Filter>src\storage\generic</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\storage\steam\SDL_steamstorage.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\storage\steam\SDL_steamstorage.c">
       <Filter>src\storage\steam</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\time\windows\SDL_systime.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\time\windows\SDL_systime.c">
       <Filter>src\time\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\timer\windows\SDL_systimer.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\timer\windows\SDL_systimer.c">
       <Filter>src\timer\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\loadso\windows\SDL_sysloadso.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\loadso\windows\SDL_sysloadso.c">
       <Filter>src\loadso\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\tray\windows\SDL_tray.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\tray\windows\SDL_tray.c">
       <Filter>src\tray\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_8bitdo.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_8bitdo.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_combined.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_combined.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_flydigi.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_flydigi.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_gamecube.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_gamecube.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_gamesir.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_gamesir.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_gip.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_gip.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_lg4ff.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_lg4ff.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_luna.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_luna.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_ps3.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_ps3.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_ps4.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_ps4.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_ps5.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_ps5.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_rumble.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_rumble.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_shield.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_shield.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_sinput.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_sinput.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_stadia.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_stadia.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_steam.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_steam.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_steam_hori.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_steam_hori.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_steam_triton.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_steam_triton.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_steamdeck.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_steamdeck.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_switch.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_switch.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_switch2.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_switch2.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_wii.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_wii.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_xbox360.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_xbox360.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_xbox360w.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_xbox360w.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_xboxone.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_xboxone.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapi_zuiki.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapi_zuiki.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_hidapijoystick.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_hidapijoystick.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\hidapi\SDL_report_descriptor.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\hidapi\SDL_report_descriptor.c">
       <Filter>src\joystick\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\haptic\hidapi\SDL_hidapihaptic.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\hidapi\SDL_hidapihaptic.c">
       <Filter>src\haptic\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\haptic\hidapi\SDL_hidapihaptic_lg4ff.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\hidapi\SDL_hidapihaptic_lg4ff.c">
       <Filter>src\haptic\hidapi</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_dinputjoystick.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_dinputjoystick.c">
       <Filter>src\joystick\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_rawinputjoystick.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_rawinputjoystick.c">
       <Filter>src\joystick\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_windows_gaming_input.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_windows_gaming_input.c">
       <Filter>src\joystick\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_windowsjoystick.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_windowsjoystick.c">
       <Filter>src\joystick\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_xinputjoystick.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_xinputjoystick.c">
       <Filter>src\joystick\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\joystick\gdk\SDL_gameinputjoystick.cpp">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\gdk\SDL_gameinputjoystick.cpp">
       <Filter>src\joystick\gdk</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\haptic\windows\SDL_dinputhaptic.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\windows\SDL_dinputhaptic.c">
       <Filter>src\haptic\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\haptic\windows\SDL_windowshaptic.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\windows\SDL_windowshaptic.c">
       <Filter>src\haptic\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\camera\mediafoundation\SDL_camera_mediafoundation.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\camera\mediafoundation\SDL_camera_mediafoundation.c">
       <Filter>src\camera\mediafoundation</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\dialog\SDL_dialog.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\dialog\SDL_dialog.c">
       <Filter>src\dialog</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\dialog\SDL_dialog_utils.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\dialog\SDL_dialog_utils.c">
       <Filter>src\dialog</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\dialog\windows\SDL_windowsdialog.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\dialog\windows\SDL_windowsdialog.c">
       <Filter>src\dialog\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\process\SDL_process.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\process\SDL_process.c">
       <Filter>src\process</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\process\windows\SDL_windowsprocess.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\process\windows\SDL_windowsprocess.c">
       <Filter>src\process\windows</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenevents.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenevents.c">
       <Filter>src\video\offscreen</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenframebuffer.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenframebuffer.c">
       <Filter>src\video\offscreen</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenopengles.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenopengles.c">
       <Filter>src\video\offscreen</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenvideo.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenvideo.c">
       <Filter>src\video\offscreen</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenvulkan.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenvulkan.c">
       <Filter>src\video\offscreen</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenwindow.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenwindow.c">
       <Filter>src\video\offscreen</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\tray\SDL_tray_utils.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\tray\SDL_tray_utils.c">
       <Filter>src\tray</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\gpu\d3d12\SDL_gpu_d3d12.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\d3d12\SDL_gpu_d3d12.c">
       <Filter>src\gpu\d3d12</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\gpu\vulkan\SDL_gpu_vulkan.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\vulkan\SDL_gpu_vulkan.c">
       <Filter>src\gpu\vulkan</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\main\generic\SDL_sysmain_callbacks.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\main\generic\SDL_sysmain_callbacks.c">
       <Filter>src\main\generic</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_assert_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_assert_c.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_error_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_error_c.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_hashtable.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_hashtable.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_hints_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_hints_c.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_internal.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_internal.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_list.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_list.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_log_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_log_c.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_menu.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_menu.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_properties_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_properties_c.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\SDL_utils_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\SDL_utils_c.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audio_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audio_c.h">
       <Filter>src\audio</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audio_channel_converters.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audio_channel_converters.h">
       <Filter>src\audio</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audiodev_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audiodev_c.h">
       <Filter>src\audio</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audioqueue.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audioqueue.h">
       <Filter>src\audio</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_audioresample.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_audioresample.h">
       <Filter>src\audio</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_sysaudio.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_sysaudio.h">
       <Filter>src\audio</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\SDL_wave.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\SDL_wave.h">
       <Filter>src\audio</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\camera\SDL_camera_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\camera\SDL_camera_c.h">
       <Filter>src\camera</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\camera\SDL_syscamera.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\camera\SDL_syscamera.h">
       <Filter>src\camera</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\core\SDL_core_unsupported.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\SDL_core_unsupported.h">
       <Filter>src\core</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\cpuinfo\SDL_cpuinfo_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\cpuinfo\SDL_cpuinfo_c.h">
       <Filter>src\cpuinfo</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\dynapi\SDL_dynapi.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\dynapi\SDL_dynapi.h">
       <Filter>src\dynapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\dynapi\SDL_dynapi_overrides.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\dynapi\SDL_dynapi_overrides.h">
       <Filter>src\dynapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\dynapi\SDL_dynapi_procs.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\dynapi\SDL_dynapi_procs.h">
       <Filter>src\dynapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\dynapi\SDL_dynapi_unsupported.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\dynapi\SDL_dynapi_unsupported.h">
       <Filter>src\dynapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_categories_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_categories_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_clipboardevents_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_clipboardevents_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_displayevents_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_displayevents_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_dropevents_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_dropevents_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_events_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_events_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_eventwatch_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_eventwatch_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_keyboard_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_keyboard_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_keymap_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_keymap_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_keysym_to_keycode_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_keysym_to_keycode_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_keysym_to_scancode_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_keysym_to_scancode_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_mouse_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_mouse_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_pen_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_pen_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_scancode_tables_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_scancode_tables_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_touch_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_touch_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\SDL_windowevents_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\SDL_windowevents_c.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\blank_cursor.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\blank_cursor.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\default_cursor.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\default_cursor.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\imKStoUCS.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\imKStoUCS.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\scancodes_darwin.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\scancodes_darwin.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\scancodes_linux.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\scancodes_linux.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\scancodes_windows.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\scancodes_windows.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\events\scancodes_xfree86.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\events\scancodes_xfree86.h">
       <Filter>src\events</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\filesystem\SDL_filesystem_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\filesystem\SDL_filesystem_c.h">
       <Filter>src\filesystem</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\filesystem\SDL_sysfilesystem.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\filesystem\SDL_sysfilesystem.h">
       <Filter>src\filesystem</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\gpu\SDL_sysgpu.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\SDL_sysgpu.h">
       <Filter>src\gpu</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\gpu\xr\SDL_gpu_openxr.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\xr\SDL_gpu_openxr.h">
       <Filter>src\gpu\xr</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\gpu\xr\SDL_openxr_internal.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\xr\SDL_openxr_internal.h">
       <Filter>src\gpu\xr</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\gpu\xr\SDL_openxrdyn.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\xr\SDL_openxrdyn.h">
       <Filter>src\gpu\xr</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\gpu\xr\SDL_openxrsym.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\xr\SDL_openxrsym.h">
       <Filter>src\gpu\xr</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\haptic\SDL_haptic_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\SDL_haptic_c.h">
       <Filter>src\haptic</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\haptic\SDL_syshaptic.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\SDL_syshaptic.h">
       <Filter>src\haptic</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_android.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_android.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_c.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_ios.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_ios.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_libusb.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_libusb.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_linux.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_linux.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_mac.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_mac.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_netbsd.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_netbsd.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_steamxbox.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_steamxbox.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\hidapi\SDL_hidapi_windows.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\hidapi\SDL_hidapi_windows.h">
       <Filter>src\hidapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\io\SDL_asyncio_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\io\SDL_asyncio_c.h">
       <Filter>src\io</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\io\SDL_iostream_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\io\SDL_iostream_c.h">
       <Filter>src\io</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\io\SDL_sysasyncio.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\io\SDL_sysasyncio.h">
       <Filter>src\io</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\SDL_gamepad_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\SDL_gamepad_c.h">
       <Filter>src\joystick</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\SDL_gamepad_db.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\SDL_gamepad_db.h">
       <Filter>src\joystick</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\SDL_joystick_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\SDL_joystick_c.h">
       <Filter>src\joystick</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\SDL_steam_virtual_gamepad.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\SDL_steam_virtual_gamepad.h">
       <Filter>src\joystick</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\SDL_sysjoystick.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\SDL_sysjoystick.h">
       <Filter>src\joystick</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\controller_list.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\controller_list.h">
       <Filter>src\joystick</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\controller_type.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\controller_type.h">
       <Filter>src\joystick</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\usb_ids.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\usb_ids.h">
       <Filter>src\joystick</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\locale\SDL_syslocale.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\locale\SDL_syslocale.h">
       <Filter>src\locale</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\main\SDL_main_callbacks.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\main\SDL_main_callbacks.h">
       <Filter>src\main</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\misc\SDL_libusb.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\misc\SDL_libusb.h">
       <Filter>src\misc</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\misc\SDL_sysurl.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\misc\SDL_sysurl.h">
       <Filter>src\misc</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\power\SDL_syspower.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\power\SDL_syspower.h">
       <Filter>src\power</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\SDL_d3dmath.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\SDL_d3dmath.h">
       <Filter>src\render</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\SDL_render_debug_font.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\SDL_render_debug_font.h">
       <Filter>src\render</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\SDL_sysrender.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\SDL_sysrender.h">
       <Filter>src\render</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\SDL_yuv_sw_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\SDL_yuv_sw_c.h">
       <Filter>src\render</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d\D3D9_PixelShader_Palette.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d\D3D9_PixelShader_Palette.h">
       <Filter>src\render\direct3d</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d\D3D9_PixelShader_Palette_Linear.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d\D3D9_PixelShader_Palette_Linear.h">
       <Filter>src\render\direct3d</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d\D3D9_PixelShader_Palette_Nearest.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d\D3D9_PixelShader_Palette_Nearest.h">
       <Filter>src\render\direct3d</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d\D3D9_PixelShader_YUV.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d\D3D9_PixelShader_YUV.h">
       <Filter>src\render\direct3d</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d\SDL_shaders_d3d.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d\SDL_shaders_d3d.h">
       <Filter>src\render\direct3d</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d11\D3D11_PixelShader_Advanced.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d11\D3D11_PixelShader_Advanced.h">
       <Filter>src\render\direct3d11</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d11\D3D11_PixelShader_Colors.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d11\D3D11_PixelShader_Colors.h">
       <Filter>src\render\direct3d11</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d11\D3D11_PixelShader_Textures.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d11\D3D11_PixelShader_Textures.h">
       <Filter>src\render\direct3d11</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d11\D3D11_VertexShader.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d11\D3D11_VertexShader.h">
       <Filter>src\render\direct3d11</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d11\SDL_shaders_d3d11.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d11\SDL_shaders_d3d11.h">
       <Filter>src\render\direct3d11</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_PixelShader_Advanced.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_PixelShader_Advanced.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_PixelShader_Colors.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_PixelShader_Colors.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_PixelShader_Textures.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_PixelShader_Textures.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_RootSig_Advanced.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_RootSig_Advanced.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_RootSig_Color.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_RootSig_Color.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_RootSig_Texture.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_RootSig_Texture.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_VertexShader_Advanced.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_VertexShader_Advanced.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_VertexShader_Color.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_VertexShader_Color.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\D3D12_VertexShader_Texture.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\D3D12_VertexShader_Texture.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\SDL_render_d3d12_xbox.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\SDL_render_d3d12_xbox.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\direct3d12\SDL_shaders_d3d12.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\direct3d12\SDL_shaders_d3d12.h">
       <Filter>src\render\direct3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\gpu\SDL_gpu_util.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\gpu\SDL_gpu_util.h">
       <Filter>src\render\gpu</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\gpu\SDL_pipeline_gpu.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\gpu\SDL_pipeline_gpu.h">
       <Filter>src\render\gpu</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\gpu\SDL_shaders_gpu.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\gpu\SDL_shaders_gpu.h">
       <Filter>src\render\gpu</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\metal\SDL_shaders_metal_ios.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\metal\SDL_shaders_metal_ios.h">
       <Filter>src\render\metal</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\metal\SDL_shaders_metal_iphonesimulator.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\metal\SDL_shaders_metal_iphonesimulator.h">
       <Filter>src\render\metal</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\metal\SDL_shaders_metal_macos.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\metal\SDL_shaders_metal_macos.h">
       <Filter>src\render\metal</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\metal\SDL_shaders_metal_tvos.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\metal\SDL_shaders_metal_tvos.h">
       <Filter>src\render\metal</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\metal\SDL_shaders_metal_tvsimulator.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\metal\SDL_shaders_metal_tvsimulator.h">
       <Filter>src\render\metal</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\ngage\SDL_render_ngage_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\ngage\SDL_render_ngage_c.h">
       <Filter>src\render\ngage</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\opengl\SDL_glfuncs.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengl\SDL_glfuncs.h">
       <Filter>src\render\opengl</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\opengl\SDL_shaders_gl.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengl\SDL_shaders_gl.h">
       <Filter>src\render\opengl</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\opengles\SDL_glesfuncs.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengles\SDL_glesfuncs.h">
       <Filter>src\render\opengles</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\opengles2\SDL_gles2funcs.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengles2\SDL_gles2funcs.h">
       <Filter>src\render\opengles2</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\opengles2\SDL_shaders_gles2.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\opengles2\SDL_shaders_gles2.h">
       <Filter>src\render\opengles2</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\psp\SDL_render_psp_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\psp\SDL_render_psp_c.h">
       <Filter>src\render\psp</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_blendfillrect.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_blendfillrect.h">
       <Filter>src\render\software</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_blendline.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_blendline.h">
       <Filter>src\render\software</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_blendpoint.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_blendpoint.h">
       <Filter>src\render\software</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_draw.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_draw.h">
       <Filter>src\render\software</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_drawline.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_drawline.h">
       <Filter>src\render\software</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_drawpoint.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_drawpoint.h">
       <Filter>src\render\software</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_render_sw_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_render_sw_c.h">
       <Filter>src\render\software</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\software\SDL_triangle.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\software\SDL_triangle.h">
       <Filter>src\render\software</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_memory.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_memory.h">
       <Filter>src\render\vitagxm</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_shaders.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_shaders.h">
       <Filter>src\render\vitagxm</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_tools.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_tools.h">
       <Filter>src\render\vitagxm</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_types.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vitagxm\SDL_render_vita_gxm_types.h">
       <Filter>src\render\vitagxm</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vulkan\SDL_shaders_vulkan.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vulkan\SDL_shaders_vulkan.h">
       <Filter>src\render\vulkan</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vulkan\VULKAN_PixelShader_Advanced.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vulkan\VULKAN_PixelShader_Advanced.h">
       <Filter>src\render\vulkan</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vulkan\VULKAN_PixelShader_Colors.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vulkan\VULKAN_PixelShader_Colors.h">
       <Filter>src\render\vulkan</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vulkan\VULKAN_PixelShader_Textures.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vulkan\VULKAN_PixelShader_Textures.h">
       <Filter>src\render\vulkan</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\render\vulkan\VULKAN_VertexShader.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\render\vulkan\VULKAN_VertexShader.h">
       <Filter>src\render\vulkan</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\sensor\SDL_sensor_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\sensor\SDL_sensor_c.h">
       <Filter>src\sensor</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\sensor\SDL_syssensor.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\sensor\SDL_syssensor.h">
       <Filter>src\sensor</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_casefolding.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_casefolding.h">
       <Filter>src\stdlib</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_getenv_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_getenv_c.h">
       <Filter>src\stdlib</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_sysstdlib.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_sysstdlib.h">
       <Filter>src\stdlib</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\stdlib\SDL_vacopy.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\stdlib\SDL_vacopy.h">
       <Filter>src\stdlib</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\storage\SDL_sysstorage.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\storage\SDL_sysstorage.h">
       <Filter>src\storage</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\thread\SDL_systhread.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\SDL_systhread.h">
       <Filter>src\thread</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\thread\SDL_thread_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\SDL_thread_c.h">
       <Filter>src\thread</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\time\SDL_time_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\time\SDL_time_c.h">
       <Filter>src\time</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\timer\SDL_timer_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\timer\SDL_timer_c.h">
       <Filter>src\timer</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_RLEaccel_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_RLEaccel_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_auto.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_auto.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_copy.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_copy.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_blit_slow.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_blit_slow.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_clipboard_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_clipboard_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_egl_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_egl_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_pixels_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_pixels_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_rect_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_rect_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_rect_impl.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_rect_impl.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_rotate.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_rotate.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_stb_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_stb_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_surface_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_surface_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_sysvideo.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_sysvideo.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_video_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_video_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_video_unsupported.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_video_unsupported.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_vulkan_internal.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_vulkan_internal.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\SDL_yuv_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\SDL_yuv_c.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\miniz.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\miniz.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\stb_image.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\stb_image.h">
       <Filter>src\video</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_common.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_common.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_internal.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_internal.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_lsx.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_lsx.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_lsx_func.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_lsx_func.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_sse.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_sse.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_sse_func.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_sse_func.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_std.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_std.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\yuv2rgb\yuv_rgb_std_func.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\yuv2rgb\yuv_rgb_std_func.h">
       <Filter>src\video\yuv2rgb</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\dummy\SDL_dummyaudio.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\dummy\SDL_dummyaudio.h">
       <Filter>src\audio\dummy</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\disk\SDL_diskaudio.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\disk\SDL_diskaudio.h">
       <Filter>src\audio\disk</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\virtual\SDL_virtualjoystick_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\virtual\SDL_virtualjoystick_c.h">
       <Filter>src\joystick\virtual</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\dummy\SDL_nullevents_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\dummy\SDL_nullevents_c.h">
       <Filter>src\video\dummy</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\dummy\SDL_nullframebuffer_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\dummy\SDL_nullframebuffer_c.h">
       <Filter>src\video\dummy</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\dummy\SDL_nullvideo.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\dummy\SDL_nullvideo.h">
       <Filter>src\video\dummy</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_directx.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_directx.h">
       <Filter>src\core\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_gameinput.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_gameinput.h">
       <Filter>src\core\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_hid.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_hid.h">
       <Filter>src\core\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_immdevice.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_immdevice.h">
       <Filter>src\core\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_windows.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_windows.h">
       <Filter>src\core\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\core\windows\SDL_xinput.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\SDL_xinput.h">
       <Filter>src\core\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\directsound\SDL_directsound.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\directsound\SDL_directsound.h">
       <Filter>src\audio\directsound</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\audio\wasapi\SDL_wasapi.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\audio\wasapi\SDL_wasapi.h">
       <Filter>src\audio\wasapi</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_msctf.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_msctf.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsclipboard.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsclipboard.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsevents.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsevents.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsframebuffer.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsframebuffer.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsgameinput.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsgameinput.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowskeyboard.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowskeyboard.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsmessagebox.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsmessagebox.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsmodes.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsmodes.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsmouse.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsmouse.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsopengl.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsopengl.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsopengles.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsopengles.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsrawinput.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsrawinput.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsshape.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsshape.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsvideo.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsvideo.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowsvulkan.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowsvulkan.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\SDL_windowswindow.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\SDL_windowswindow.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\windows\wmmsg.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\windows\wmmsg.h">
       <Filter>src\video\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\thread\generic\SDL_syscond_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\generic\SDL_syscond_c.h">
       <Filter>src\thread\generic</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\thread\generic\SDL_sysrwlock_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\thread\generic\SDL_sysrwlock_c.h">
       <Filter>src\thread\generic</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\sensor\windows\SDL_windowssensor.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\sensor\windows\SDL_windowssensor.h">
       <Filter>src\sensor\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\storage\steam\SDL_steamstorage_proc.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\storage\steam\SDL_steamstorage_proc.h">
       <Filter>src\storage\steam</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_dinputjoystick_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_dinputjoystick_c.h">
       <Filter>src\joystick\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_rawinputjoystick_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_rawinputjoystick_c.h">
       <Filter>src\joystick\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_windowsjoystick_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_windowsjoystick_c.h">
       <Filter>src\joystick\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\joystick\windows\SDL_xinputjoystick_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\joystick\windows\SDL_xinputjoystick_c.h">
       <Filter>src\joystick\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\haptic\windows\SDL_dinputhaptic_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\windows\SDL_dinputhaptic_c.h">
       <Filter>src\haptic\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\haptic\windows\SDL_windowshaptic_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\haptic\windows\SDL_windowshaptic_c.h">
       <Filter>src\haptic\windows</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenevents_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenevents_c.h">
       <Filter>src\video\offscreen</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenframebuffer_c.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenframebuffer_c.h">
       <Filter>src\video\offscreen</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenopengles.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenopengles.h">
       <Filter>src\video\offscreen</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenvideo.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenvideo.h">
       <Filter>src\video\offscreen</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenvulkan.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenvulkan.h">
       <Filter>src\video\offscreen</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\video\offscreen\SDL_offscreenwindow.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\video\offscreen\SDL_offscreenwindow.h">
       <Filter>src\video\offscreen</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\gpu\d3d12\D3D12_Blit.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\d3d12\D3D12_Blit.h">
       <Filter>src\gpu\d3d12</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\gpu\vulkan\SDL_gpu_vulkan_vkfuncs.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\gpu\vulkan\SDL_gpu_vulkan_vkfuncs.h">
       <Filter>src\gpu\vulkan</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_assert.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_assert.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_asyncio.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_asyncio.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_atomic.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_atomic.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_audio.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_audio.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_begin_code.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_begin_code.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_bits.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_bits.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_blendmode.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_blendmode.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_camera.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_camera.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_clipboard.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_clipboard.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_close_code.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_close_code.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_copying.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_copying.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_cpuinfo.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_cpuinfo.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_dialog.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_dialog.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_dlopennote.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_dlopennote.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_egl.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_egl.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_endian.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_endian.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_error.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_error.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_events.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_events.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_filesystem.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_filesystem.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_gamepad.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_gamepad.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_gpu.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_gpu.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_guid.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_guid.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_haptic.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_haptic.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_hidapi.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_hidapi.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_hints.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_hints.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_init.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_init.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_intrin.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_intrin.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_iostream.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_iostream.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_joystick.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_joystick.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_keyboard.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_keyboard.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_keycode.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_keycode.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_loadso.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_loadso.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_locale.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_locale.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_log.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_log.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_main.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_main.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_main_impl.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_main_impl.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_messagebox.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_messagebox.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_metal.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_metal.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_misc.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_misc.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_mouse.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_mouse.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_mutex.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_mutex.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_oldnames.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_oldnames.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_opengl.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_opengl.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_opengl_glext.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_opengl_glext.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_opengles.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_opengles.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_opengles2.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_opengles2.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_opengles2_gl2.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_opengles2_gl2.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_opengles2_gl2ext.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_opengles2_gl2ext.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_opengles2_gl2platform.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_opengles2_gl2platform.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_opengles2_khrplatform.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_opengles2_khrplatform.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_openxr.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_openxr.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_pen.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_pen.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_pixels.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_pixels.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_platform.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_platform.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_platform_defines.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_platform_defines.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_power.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_power.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_process.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_process.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_properties.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_properties.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_rect.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_rect.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_render.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_render.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_scancode.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_scancode.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_sensor.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_sensor.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_stdinc.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_stdinc.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_storage.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_storage.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_surface.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_surface.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_system.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_system.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_thread.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_thread.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_time.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_time.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_timer.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_timer.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_touch.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_touch.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_tray.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_tray.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_version.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_version.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_video.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_video.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\include\SDL3\SDL_vulkan.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\include\SDL3\SDL_vulkan.h">
       <Filter>include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\include-revision\SDL3\SDL_revision.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\include-revision\SDL3\SDL_revision.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\Debug\cmake_pch.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\Debug\cmake_pch.h">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\Debug\cmake_pch.hxx">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\Debug\cmake_pch.hxx">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\Release\cmake_pch.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\Release\cmake_pch.h">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\Release\cmake_pch.hxx">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\Release\cmake_pch.hxx">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\MinSizeRel\cmake_pch.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\MinSizeRel\cmake_pch.h">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\MinSizeRel\cmake_pch.hxx">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\MinSizeRel\cmake_pch.hxx">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\RelWithDebInfo\cmake_pch.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\RelWithDebInfo\cmake_pch.h">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="G:\fluidsimc\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\RelWithDebInfo\cmake_pch.hxx">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\build\vendored\SDL\CMakeFiles\SDL3-shared.dir\RelWithDebInfo\cmake_pch.hxx">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="G:\fluidsimc\vendored\SDL\CMakeLists.txt" />
+    <CustomBuild Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="G:\fluidsimc\vendored\SDL\src\core\windows\version.rc">
+    <ResourceCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\core\windows\version.rc">
       <Filter>src\core\windows</Filter>
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{F339A894-A0BE-3ED5-989A-55609860721E}</UniqueIdentifier>
+      <UniqueIdentifier>{38DEABC3-C46A-343B-B5E9-C15B61EBB581}</UniqueIdentifier>
     </Filter>
     <Filter Include="Precompile Header File">
-      <UniqueIdentifier>{545C5CFE-C257-3580-8FD0-E24224CD401C}</UniqueIdentifier>
+      <UniqueIdentifier>{6ACB0AE2-EE5C-38D1-B4E4-838E66AE751D}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{A0E9F79F-DB75-352C-9255-10BED24B6946}</UniqueIdentifier>
+      <UniqueIdentifier>{6A497AA7-10B9-380B-AA5C-58479F8EFFCB}</UniqueIdentifier>
     </Filter>
     <Filter Include="include">
-      <UniqueIdentifier>{2D5662BE-EBB7-3A81-BBDB-652AF3C9FF2F}</UniqueIdentifier>
+      <UniqueIdentifier>{E1CB2B68-A255-363E-B05A-79A69A98AC06}</UniqueIdentifier>
     </Filter>
     <Filter Include="include\SDL3">
-      <UniqueIdentifier>{2B42DA65-79A2-310A-B2B9-6D16ACD3CBEA}</UniqueIdentifier>
+      <UniqueIdentifier>{C636A1F2-57D9-3C08-A213-B4674E32ACB0}</UniqueIdentifier>
     </Filter>
     <Filter Include="src">
-      <UniqueIdentifier>{44F0EE06-3AA1-3F26-BCEA-086E5253ECC8}</UniqueIdentifier>
+      <UniqueIdentifier>{77102FAC-C21F-3BD7-942C-A2295CBB79AA}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\atomic">
-      <UniqueIdentifier>{4941EA67-C1F4-39D0-9294-BFFB8461FC4A}</UniqueIdentifier>
+      <UniqueIdentifier>{F82009F4-BB7E-3DB5-B52C-83B15E67525C}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\audio">
-      <UniqueIdentifier>{9C882FD4-9B7B-373E-814F-56661400911D}</UniqueIdentifier>
+      <UniqueIdentifier>{B49F7638-C555-3A2D-976A-57E5F75C6BE6}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\audio\directsound">
-      <UniqueIdentifier>{229C150A-BF42-348A-9E19-D967601A1007}</UniqueIdentifier>
+      <UniqueIdentifier>{23D32EA4-2409-3DD7-B650-F7E37B635853}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\audio\disk">
-      <UniqueIdentifier>{6B28149F-5276-31D4-90F5-AF2D14E73C60}</UniqueIdentifier>
+      <UniqueIdentifier>{0D6B904B-BA34-3F61-AAB0-E24C9A7E740D}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\audio\dummy">
-      <UniqueIdentifier>{4AC5542D-DC19-3075-98D4-2EADFD7A7A94}</UniqueIdentifier>
+      <UniqueIdentifier>{EDF2C39A-AB72-395B-8409-3C46700002BB}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\audio\wasapi">
-      <UniqueIdentifier>{5B225C1A-7660-30B1-ADF6-7072E971A453}</UniqueIdentifier>
+      <UniqueIdentifier>{58F85A26-C541-3CD0-99B9-F878BF9D3432}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\camera">
-      <UniqueIdentifier>{B39E53E8-D22B-3C88-906E-2A19AAA194FC}</UniqueIdentifier>
+      <UniqueIdentifier>{D556B2C7-17A6-3514-8770-754F88908D9D}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\camera\dummy">
-      <UniqueIdentifier>{FC5F59A8-EE8F-377E-B1D6-A6DFCC4A9C6F}</UniqueIdentifier>
+      <UniqueIdentifier>{20A4220B-813B-3CFC-AEFE-1AD6FE64D46A}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\camera\mediafoundation">
-      <UniqueIdentifier>{9D548A88-568C-30E7-8326-CCCCB1BCE61C}</UniqueIdentifier>
+      <UniqueIdentifier>{4718C537-78B1-39A7-A164-7A5B0364AF7A}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\core">
-      <UniqueIdentifier>{160608EE-716E-3E65-BFA5-A63205EF465C}</UniqueIdentifier>
+      <UniqueIdentifier>{6CB3D725-C660-3996-89E9-EDE8E52EB6E1}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\core\windows">
-      <UniqueIdentifier>{1A01CDBA-1B57-3CDB-8CDC-4A0FE6E3FB4C}</UniqueIdentifier>
+      <UniqueIdentifier>{201D511C-C41E-31AC-8E03-7A0471C99161}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\cpuinfo">
-      <UniqueIdentifier>{B1903F0F-EBAB-3D90-AB38-2459FA0EFE5E}</UniqueIdentifier>
+      <UniqueIdentifier>{3AB1A6DF-E224-3499-B080-6DD7DD6BA0AF}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\dialog">
-      <UniqueIdentifier>{719F90BC-E095-3C1B-AF9C-1E6D57741F19}</UniqueIdentifier>
+      <UniqueIdentifier>{C3FA23B9-B321-35F6-BC9B-9F1220061C1B}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\dialog\windows">
-      <UniqueIdentifier>{803C0C20-5457-3A8F-B82B-34FFB3966242}</UniqueIdentifier>
+      <UniqueIdentifier>{B4018339-8C04-395A-BE93-342FFBE45989}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\dynapi">
-      <UniqueIdentifier>{8DC99559-A73B-31F3-A2A4-CE121DF032AC}</UniqueIdentifier>
+      <UniqueIdentifier>{40DF6878-6BD5-3D68-8062-B01FB9C71F34}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\events">
-      <UniqueIdentifier>{D994D0B0-F160-31A3-84BC-2F10CBEE3F64}</UniqueIdentifier>
+      <UniqueIdentifier>{B96846CB-F88F-3F5E-97FB-7CA41E66B870}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\filesystem">
-      <UniqueIdentifier>{E76FD093-C2CD-3A8C-8B51-0677485FFBE7}</UniqueIdentifier>
+      <UniqueIdentifier>{76D345AF-E335-3367-810E-F3DA217A8870}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\filesystem\windows">
-      <UniqueIdentifier>{DF2B485D-8462-3BA0-8AC0-715E8E143B61}</UniqueIdentifier>
+      <UniqueIdentifier>{B03C5A08-8F0B-3E90-BBEE-EAF35B8483F1}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\gpu">
-      <UniqueIdentifier>{18669614-355A-3668-96F6-96E6A60F6428}</UniqueIdentifier>
+      <UniqueIdentifier>{224BD436-B8F8-3A06-B368-5F4A73CA6550}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\gpu\d3d12">
-      <UniqueIdentifier>{FF94536C-9588-3D4A-9174-FB2F2C901AF3}</UniqueIdentifier>
+      <UniqueIdentifier>{3FA32601-BFB8-345C-954D-A189075C4181}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\gpu\vulkan">
-      <UniqueIdentifier>{6A5282CF-396A-346D-9EBA-A8AB4DFBD854}</UniqueIdentifier>
+      <UniqueIdentifier>{8515A12F-38AE-318E-B8B1-19417482298F}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\gpu\xr">
-      <UniqueIdentifier>{40EC2608-FA85-3237-ACEB-521D63EB9192}</UniqueIdentifier>
+      <UniqueIdentifier>{F312022B-AA72-3F7F-8DAD-02DD4F8853FC}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\haptic">
-      <UniqueIdentifier>{E347A15C-CA1B-3452-804E-2535E0E92C3D}</UniqueIdentifier>
+      <UniqueIdentifier>{17A8925B-F6F5-38C2-85CB-A7014399CC1A}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\haptic\hidapi">
-      <UniqueIdentifier>{B363C552-8E32-327F-A5F1-C49CCA6A7869}</UniqueIdentifier>
+      <UniqueIdentifier>{BD3502E9-6070-3C02-BFD2-CAF3572D58F2}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\haptic\windows">
-      <UniqueIdentifier>{5F606E76-D746-3704-A3C4-180413FFDCDB}</UniqueIdentifier>
+      <UniqueIdentifier>{4472F78C-3855-351F-8679-A47234BCC9D3}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\hidapi">
-      <UniqueIdentifier>{EB99EE57-3A2E-3C15-B327-C1366A68C8E7}</UniqueIdentifier>
+      <UniqueIdentifier>{176BB308-CA6F-3182-9FAF-0BE2E0DA49E0}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\io">
-      <UniqueIdentifier>{A77313AB-E1DE-389F-B94A-8CCA329802EA}</UniqueIdentifier>
+      <UniqueIdentifier>{B6373948-49C5-3828-9CEA-3EF6E8C8F165}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\io\generic">
-      <UniqueIdentifier>{D9FD7792-E988-3283-A119-CDAAFBCBA690}</UniqueIdentifier>
+      <UniqueIdentifier>{B748B03B-8567-3113-B837-5616C7812E8A}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\io\windows">
-      <UniqueIdentifier>{F6803EE1-2ADF-3CE7-9AC5-EF1FC6F2E0F7}</UniqueIdentifier>
+      <UniqueIdentifier>{CB0497EB-9D1D-381A-91C1-C81061D20512}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\joystick">
-      <UniqueIdentifier>{03879F77-929E-3092-B5C0-DA2EA5DB129B}</UniqueIdentifier>
+      <UniqueIdentifier>{78FD5BB4-479D-33DD-A8BC-C58F9A3C4B27}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\joystick\gdk">
-      <UniqueIdentifier>{A83A1195-D1EA-3928-9B34-F510B57368C8}</UniqueIdentifier>
+      <UniqueIdentifier>{5C0FBDD9-8CEE-3CFB-AC57-A748E3C12211}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\joystick\hidapi">
-      <UniqueIdentifier>{13FC5BEC-8C46-3AB4-8B5D-61A0139E91E8}</UniqueIdentifier>
+      <UniqueIdentifier>{37B32797-766A-3850-8D27-C906D7BE2602}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\joystick\virtual">
-      <UniqueIdentifier>{A53B0F75-756B-3B77-95F8-6853473420FF}</UniqueIdentifier>
+      <UniqueIdentifier>{CBD55ECD-51F7-3F49-852E-5BEE99571BC4}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\joystick\windows">
-      <UniqueIdentifier>{0AA8935C-D443-32A4-9C93-393CD973A68F}</UniqueIdentifier>
+      <UniqueIdentifier>{9FD044DD-5EC7-3209-890F-0DD0DFEC6ECA}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\loadso">
-      <UniqueIdentifier>{FDC1188B-AD18-3261-B8D6-704C31CE6A8C}</UniqueIdentifier>
+      <UniqueIdentifier>{50A430EB-BD42-3710-A238-6380D96B8D72}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\loadso\windows">
-      <UniqueIdentifier>{F6E055A6-2D0C-3A49-A9CB-02B19A8F08AA}</UniqueIdentifier>
+      <UniqueIdentifier>{1F13053C-C5FB-3DCB-8C93-9B6A08FA9EEC}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\locale">
-      <UniqueIdentifier>{4885CBC4-EF7C-30D1-9D4A-F68EF36AAFE3}</UniqueIdentifier>
+      <UniqueIdentifier>{77148B49-8433-370A-B040-5BB0D204C4DE}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\locale\windows">
-      <UniqueIdentifier>{EDB2EF13-8199-3958-B1C0-D6AC684D7CF5}</UniqueIdentifier>
+      <UniqueIdentifier>{530E0351-8AD6-31BA-80F9-A6C60F8DF63C}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\main">
-      <UniqueIdentifier>{12714F15-B817-35A0-9581-3863595A8256}</UniqueIdentifier>
+      <UniqueIdentifier>{CD2B0A93-8812-3534-9C10-213C84034FB5}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\main\generic">
-      <UniqueIdentifier>{F79B725A-8FB4-3E8E-ABC4-7D954FEA29F8}</UniqueIdentifier>
+      <UniqueIdentifier>{6302A28F-78BB-3129-95E2-72895C5C6D23}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\main\windows">
-      <UniqueIdentifier>{5FDBB500-18FB-3FE6-966F-A11B7659A58C}</UniqueIdentifier>
+      <UniqueIdentifier>{2A2A74F0-7D49-37EA-896D-765FC5DA36C3}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\misc">
-      <UniqueIdentifier>{0CCB630E-31C9-3687-987C-89FF652B509F}</UniqueIdentifier>
+      <UniqueIdentifier>{63C32B43-6BF3-36E3-8B8D-6B5532C50E44}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\misc\windows">
-      <UniqueIdentifier>{FB2DC81D-1B00-38C7-93AE-74FE9FA1ACC9}</UniqueIdentifier>
+      <UniqueIdentifier>{9B77AFBE-0343-3C62-8E24-6FFD6519BFC5}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\power">
-      <UniqueIdentifier>{A989F58C-34CB-3747-97E0-A88907262FFB}</UniqueIdentifier>
+      <UniqueIdentifier>{D3CE6C85-9BBA-3FFC-9A4C-F0401B08A0DD}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\power\windows">
-      <UniqueIdentifier>{21E7FBB7-01E8-34DD-9A5D-D8B6CD5D0BAD}</UniqueIdentifier>
+      <UniqueIdentifier>{7ACC9FEF-8378-3B04-9903-16F402B4291B}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\process">
-      <UniqueIdentifier>{8768B73C-FD9E-30FE-A8BE-557A8C9A9667}</UniqueIdentifier>
+      <UniqueIdentifier>{BBA18A19-F908-3CCE-A9D2-03EA6614DC65}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\process\windows">
-      <UniqueIdentifier>{C2F1CC1D-F606-3E1F-83EB-00F86738FFDC}</UniqueIdentifier>
+      <UniqueIdentifier>{68F60056-1E07-30AD-A54E-4A976DB67321}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render">
-      <UniqueIdentifier>{B0E0ABDB-3F27-3812-9830-2E675C84F980}</UniqueIdentifier>
+      <UniqueIdentifier>{6789F224-7C07-37AA-A111-202A17B511F6}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\direct3d">
-      <UniqueIdentifier>{8B96936F-4491-3B64-9D90-DF9300FBF981}</UniqueIdentifier>
+      <UniqueIdentifier>{0F878624-4E98-37E7-B9E7-9555990D7BD1}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\direct3d11">
-      <UniqueIdentifier>{789B98CE-4136-30F6-A56E-C8E29D162D10}</UniqueIdentifier>
+      <UniqueIdentifier>{96C380AB-00B3-309F-8EA0-35C7D01087FC}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\direct3d12">
-      <UniqueIdentifier>{2DA64A5F-3AB3-38AF-A0AF-F4E3F48A1B92}</UniqueIdentifier>
+      <UniqueIdentifier>{32C39670-81F1-363C-A208-89219920A581}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\gpu">
-      <UniqueIdentifier>{E60874DA-8634-36D0-B3CB-F7D33897B8DE}</UniqueIdentifier>
+      <UniqueIdentifier>{6547D352-B156-300C-864C-B01E15B2E4CA}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\metal">
-      <UniqueIdentifier>{46F43E3F-69BC-3061-8517-4B5B0C308FD8}</UniqueIdentifier>
+      <UniqueIdentifier>{2CC35FA9-CFC0-327D-A4E0-2C7C117D85A5}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\ngage">
-      <UniqueIdentifier>{A353194B-12B2-385A-8726-C5F383F382BC}</UniqueIdentifier>
+      <UniqueIdentifier>{D5ADDA94-4738-335E-97D6-AFCDA1508CE7}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\opengl">
-      <UniqueIdentifier>{393FEF0E-FF4C-3574-9C3E-042B42EC6337}</UniqueIdentifier>
+      <UniqueIdentifier>{33998811-6093-3669-9D3C-199F1485D178}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\opengles">
-      <UniqueIdentifier>{B0CB6156-8045-393F-A341-868B034E8A36}</UniqueIdentifier>
+      <UniqueIdentifier>{A7EA7EF0-2929-30A1-91BB-64590CA6819F}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\opengles2">
-      <UniqueIdentifier>{38C1D1D7-8D6A-3347-9A84-B9A9E04C3AFD}</UniqueIdentifier>
+      <UniqueIdentifier>{FACE1C61-505B-31A4-9445-9E17EFE01F7A}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\ps2">
-      <UniqueIdentifier>{25AE1ABC-AD24-3020-B49F-DACEB71D929B}</UniqueIdentifier>
+      <UniqueIdentifier>{96B037ED-4C17-3E4C-A55C-586ACF162BEA}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\psp">
-      <UniqueIdentifier>{9B76DFE8-7607-32CB-8DDE-9B15841C3C1F}</UniqueIdentifier>
+      <UniqueIdentifier>{F67E3597-5C5A-3E9D-A381-4E4D8922CA77}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\software">
-      <UniqueIdentifier>{E26677A7-E1C2-39FF-B855-FC38406E2AC5}</UniqueIdentifier>
+      <UniqueIdentifier>{E8F53C81-0F98-3D01-A4BA-9951EFCFE169}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\vitagxm">
-      <UniqueIdentifier>{5BDEF465-890A-38A8-A8B8-1DAA92E0BCEF}</UniqueIdentifier>
+      <UniqueIdentifier>{87EE62E3-0F88-3DD4-9870-AB9468B27E55}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\render\vulkan">
-      <UniqueIdentifier>{B3FA842D-3240-3C9E-B469-A847D03CECB4}</UniqueIdentifier>
+      <UniqueIdentifier>{52A5D68F-6ECC-3B1E-A856-173CB7B3DA67}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\sensor">
-      <UniqueIdentifier>{9D27BD08-1A6E-39DE-AF34-19339E659E5E}</UniqueIdentifier>
+      <UniqueIdentifier>{5CD9A276-5B48-3A35-B152-C21449F3EBF9}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\sensor\windows">
-      <UniqueIdentifier>{2F485FD0-E530-3E32-BF9B-00E7E9220C71}</UniqueIdentifier>
+      <UniqueIdentifier>{78295989-2566-3AD8-8E94-F94EF78029DB}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\stdlib">
-      <UniqueIdentifier>{6BB2B916-3EFA-3A52-AA2C-0EBB36951143}</UniqueIdentifier>
+      <UniqueIdentifier>{0A4B47D9-E80F-3829-BAD6-7BD0CB7A260A}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\storage">
-      <UniqueIdentifier>{A2097497-E345-337B-8555-621DA677328F}</UniqueIdentifier>
+      <UniqueIdentifier>{4D315A8A-D3CC-3C5E-9484-F391F5088AFF}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\storage\generic">
-      <UniqueIdentifier>{F02EFDDE-0E57-3B14-8596-7C47322C8151}</UniqueIdentifier>
+      <UniqueIdentifier>{C7A55D5C-6490-3E7F-B944-B66EE258E42C}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\storage\steam">
-      <UniqueIdentifier>{EA0606D8-34AC-3CFE-9BAE-DADE14818D90}</UniqueIdentifier>
+      <UniqueIdentifier>{CDE998A4-4C43-3C63-A4C3-29AC30CCEC76}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\thread">
-      <UniqueIdentifier>{FD17AB20-DC12-3AA4-92AC-BCD32F063EF7}</UniqueIdentifier>
+      <UniqueIdentifier>{5D1CE934-C087-3751-82A4-6D6623E3C38B}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\thread\generic">
-      <UniqueIdentifier>{B32CABFA-D40E-3E03-AA8A-BE00A21B3E14}</UniqueIdentifier>
+      <UniqueIdentifier>{EE796671-E3CB-3754-BAFA-82123AF4EF75}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\thread\windows">
-      <UniqueIdentifier>{183890AF-849E-3B09-B9AD-5A30BC04822E}</UniqueIdentifier>
+      <UniqueIdentifier>{6CAF9035-FD10-3B8A-B8CC-B7AE4E3240A0}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\time">
-      <UniqueIdentifier>{7415E039-E71B-368F-97D9-260EF58633A7}</UniqueIdentifier>
+      <UniqueIdentifier>{C30B5CDC-4719-3BCE-9C50-A2B7D783879A}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\time\windows">
-      <UniqueIdentifier>{9B6EEA01-08A5-3101-9951-EDB0CA542790}</UniqueIdentifier>
+      <UniqueIdentifier>{DB352961-76CA-3FDE-84E9-B1982F20642E}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\timer">
-      <UniqueIdentifier>{8C514A23-3966-3335-90A7-AA043F1C1E8A}</UniqueIdentifier>
+      <UniqueIdentifier>{393A8913-EF02-35DF-8A49-99AFD398FF76}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\timer\windows">
-      <UniqueIdentifier>{C9263497-C549-3616-9943-6AD23258ABA1}</UniqueIdentifier>
+      <UniqueIdentifier>{C3072C72-4C13-399F-810E-A19641451C59}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\tray">
-      <UniqueIdentifier>{5A7FA7A2-D4DE-36A9-B1D6-419D7DA1A32B}</UniqueIdentifier>
+      <UniqueIdentifier>{7A64E8AD-FD82-35F8-B6D0-210C4D86A523}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\tray\windows">
-      <UniqueIdentifier>{2A83958F-0498-314E-B831-CC9B2B110F81}</UniqueIdentifier>
+      <UniqueIdentifier>{FE881D59-F55A-3DC6-AFF5-7C82A34896DB}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\video">
-      <UniqueIdentifier>{D8B5DB8A-1B7E-3E11-9966-CCD83CC6F74B}</UniqueIdentifier>
+      <UniqueIdentifier>{35EABD3B-2866-3404-8AD2-F0A8C3974E8C}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\video\dummy">
-      <UniqueIdentifier>{A7A02375-D614-3DCB-B347-18AFC47D161E}</UniqueIdentifier>
+      <UniqueIdentifier>{95875B8D-B373-36AD-BD29-9D741F7B135D}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\video\offscreen">
-      <UniqueIdentifier>{1F1742B6-4EE7-3069-94F4-C70A106DB899}</UniqueIdentifier>
+      <UniqueIdentifier>{8E0B2E42-A666-3A3A-AF1E-388F564BD9ED}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\video\windows">
-      <UniqueIdentifier>{2E3E7D42-0FE7-334E-8CA6-624AF112F99D}</UniqueIdentifier>
+      <UniqueIdentifier>{55B3F36C-ECA9-3E9D-930F-E9E4DD67CBAD}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\video\yuv2rgb">
-      <UniqueIdentifier>{AD393AF8-A56C-39E1-9CF1-99155FCB6358}</UniqueIdentifier>
+      <UniqueIdentifier>{935C5461-B502-3B89-BA34-DFEA1F7784D5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

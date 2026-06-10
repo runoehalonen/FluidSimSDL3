@@ -1,0 +1,7 @@
+G:/gitrepos/FluidSimSDL3/CMakeFiles/main.dir
+G:/gitrepos/FluidSimSDL3/CMakeFiles/ALL_BUILD.dir
+G:/gitrepos/FluidSimSDL3/CMakeFiles/ZERO_CHECK.dir
+G:/gitrepos/FluidSimSDL3/vendored/SDL/CMakeFiles/SDL3-shared.dir
+G:/gitrepos/FluidSimSDL3/vendored/SDL/CMakeFiles/SDL3_test.dir
+G:/gitrepos/FluidSimSDL3/vendored/SDL/CMakeFiles/SDL_uclibc.dir
+G:/gitrepos/FluidSimSDL3/vendored/SDL/CMakeFiles/ALL_BUILD.dir

@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="G:\fluidsimc\build\CMakeFiles\808edac3944d3bc4fd49fc6e46dc6d81\generate.stamp.rule">
+    <CustomBuild Include="G:\gitrepos\FluidSimSDL3\build\CMakeFiles\7328928a656c867529c73bdc3a4920a2\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{63B92328-6ADC-3F79-B992-6DDACC8EEE2D}</UniqueIdentifier>
+      <UniqueIdentifier>{D8389B2D-A3E6-385A-A52F-D6D55F67534C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

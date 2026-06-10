@@ -1,6 +1,6 @@
-^G:\FLUIDSIMC\BUILD\CMAKEFILES\808EDAC3944D3BC4FD49FC6E46DC6D81\GENERATE.STAMP.RULE
+^G:\GITREPOS\FLUIDSIMSDL3\BUILD\CMAKEFILES\7328928A656C867529C73BDC3A4920A2\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SG:/fluidsimc -BG:/fluidsimc/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file G:/fluidsimc/build/main.slnx
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/gitrepos/FluidSimSDL3 -BG:/gitrepos/FluidSimSDL3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file G:/gitrepos/FluidSimSDL3/build/main.slnx
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

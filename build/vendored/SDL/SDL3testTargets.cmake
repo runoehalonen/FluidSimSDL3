@@ -59,28 +59,28 @@ set_target_properties(SDL3::SDL3_test PROPERTIES
 set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(SDL3::SDL3_test PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "C"
-  IMPORTED_LOCATION_DEBUG "G:/fluidsimc/build/vendored/SDL/Debug/SDL3_test.lib"
+  IMPORTED_LOCATION_DEBUG "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/Debug/SDL3_test.lib"
   )
 
 # Import target "SDL3::SDL3_test" for configuration "Release"
 set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(SDL3::SDL3_test PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "C"
-  IMPORTED_LOCATION_RELEASE "G:/fluidsimc/build/vendored/SDL/Release/SDL3_test.lib"
+  IMPORTED_LOCATION_RELEASE "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/Release/SDL3_test.lib"
   )
 
 # Import target "SDL3::SDL3_test" for configuration "MinSizeRel"
 set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(SDL3::SDL3_test PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_MINSIZEREL "C"
-  IMPORTED_LOCATION_MINSIZEREL "G:/fluidsimc/build/vendored/SDL/MinSizeRel/SDL3_test.lib"
+  IMPORTED_LOCATION_MINSIZEREL "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/MinSizeRel/SDL3_test.lib"
   )
 
 # Import target "SDL3::SDL3_test" for configuration "RelWithDebInfo"
 set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(SDL3::SDL3_test PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELWITHDEBINFO "C"
-  IMPORTED_LOCATION_RELWITHDEBINFO "G:/fluidsimc/build/vendored/SDL/RelWithDebInfo/SDL3_test.lib"
+  IMPORTED_LOCATION_RELWITHDEBINFO "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/RelWithDebInfo/SDL3_test.lib"
   )
 
 # Make sure the targets which have been exported in some other

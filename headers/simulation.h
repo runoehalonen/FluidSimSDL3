@@ -228,9 +228,9 @@ static inline void calculateDensityForces(Simulation *simulation)
                         float dx = neighborParticle->x - particle->x;
                         float dy = neighborParticle->y - particle->y;
                         float r = simulation->maxForceRadius;
-                        float dist = sqrtf(dx * dx + dy * dy);
-                        if (dist > 0.0f && dist < r)
-                            particle->density += calculateFluidDensity(r, dist);
+                        float distsq = dx * dx + dy * dy;
+                        if (distsq > 0.0f && distsq < r*r)
+                            particle->density += calculateFluidDensity(r, distsq);
                     }
                     currentParticleIndex = simulation->particlePool[currentParticleIndex].nextInSlot;
                 }
@@ -306,9 +306,9 @@ static inline float pressureFromDensity(float density)
     return stiffness * density;
 }
 
-static inline float calculateFluidDensity(float radius, float distance)
+static inline float calculateFluidDensity(float radius, float distancesq)
 {
-    float force = fmax(0, radius * radius - distance * distance);
+    float force = fmax(0, radius * radius - distancesq);
     force = force * force * force;
     float normalization = (radius * radius) * (radius * radius) * (radius * radius);
     return force / normalization;

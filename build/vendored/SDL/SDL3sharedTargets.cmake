@@ -52,7 +52,7 @@ add_library(SDL3::SDL3-shared SHARED IMPORTED)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
   COMPATIBLE_INTERFACE_BOOL "SDL3_SHARED"
   COMPATIBLE_INTERFACE_STRING "SDL_VERSION"
-  INTERFACE_LINK_DEPENDS "G:/fluidsimc/vendored/SDL/src/dynapi/SDL_dynapi.sym"
+  INTERFACE_LINK_DEPENDS "G:/gitrepos/FluidSimSDL3/vendored/SDL/src/dynapi/SDL_dynapi.sym"
   INTERFACE_LINK_LIBRARIES "SDL3::Headers"
   INTERFACE_SDL3_SHARED "TRUE"
   INTERFACE_SDL_VERSION "SDL3"
@@ -62,29 +62,29 @@ set_target_properties(SDL3::SDL3-shared PROPERTIES
 # Import target "SDL3::SDL3-shared" for configuration "Debug"
 set_property(TARGET SDL3::SDL3-shared APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "G:/fluidsimc/build/vendored/SDL/Debug/SDL3.lib"
-  IMPORTED_LOCATION_DEBUG "G:/fluidsimc/build/Debug/SDL3.dll"
+  IMPORTED_IMPLIB_DEBUG "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/Debug/SDL3.lib"
+  IMPORTED_LOCATION_DEBUG "G:/gitrepos/FluidSimSDL3/build/Debug/SDL3.dll"
   )
 
 # Import target "SDL3::SDL3-shared" for configuration "Release"
 set_property(TARGET SDL3::SDL3-shared APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
-  IMPORTED_IMPLIB_RELEASE "G:/fluidsimc/build/vendored/SDL/Release/SDL3.lib"
-  IMPORTED_LOCATION_RELEASE "G:/fluidsimc/build/Release/SDL3.dll"
+  IMPORTED_IMPLIB_RELEASE "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/Release/SDL3.lib"
+  IMPORTED_LOCATION_RELEASE "G:/gitrepos/FluidSimSDL3/build/Release/SDL3.dll"
   )
 
 # Import target "SDL3::SDL3-shared" for configuration "MinSizeRel"
 set_property(TARGET SDL3::SDL3-shared APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
-  IMPORTED_IMPLIB_MINSIZEREL "G:/fluidsimc/build/vendored/SDL/MinSizeRel/SDL3.lib"
-  IMPORTED_LOCATION_MINSIZEREL "G:/fluidsimc/build/MinSizeRel/SDL3.dll"
+  IMPORTED_IMPLIB_MINSIZEREL "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/MinSizeRel/SDL3.lib"
+  IMPORTED_LOCATION_MINSIZEREL "G:/gitrepos/FluidSimSDL3/build/MinSizeRel/SDL3.dll"
   )
 
 # Import target "SDL3::SDL3-shared" for configuration "RelWithDebInfo"
 set_property(TARGET SDL3::SDL3-shared APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
-  IMPORTED_IMPLIB_RELWITHDEBINFO "G:/fluidsimc/build/vendored/SDL/RelWithDebInfo/SDL3.lib"
-  IMPORTED_LOCATION_RELWITHDEBINFO "G:/fluidsimc/build/RelWithDebInfo/SDL3.dll"
+  IMPORTED_IMPLIB_RELWITHDEBINFO "G:/gitrepos/FluidSimSDL3/build/vendored/SDL/RelWithDebInfo/SDL3.lib"
+  IMPORTED_LOCATION_RELWITHDEBINFO "G:/gitrepos/FluidSimSDL3/build/RelWithDebInfo/SDL3.dll"
   )
 
 # Make sure the targets which have been exported in some other

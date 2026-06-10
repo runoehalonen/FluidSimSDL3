@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_assert.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_assert.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_common.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_common.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_compare.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_compare.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_crc32.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_crc32.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_font.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_font.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_fuzzer.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_fuzzer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_harness.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_harness.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_log.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_log.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_md5.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_md5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_memory.c">
+    <ClCompile Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_memory.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="G:\fluidsimc\vendored\SDL\src\test\SDL_test_internal.h">
+    <ClInclude Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\src\test\SDL_test_internal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="G:\fluidsimc\vendored\SDL\CMakeLists.txt" />
+    <CustomBuild Include="G:\gitrepos\FluidSimSDL3\vendored\SDL\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{F339A894-A0BE-3ED5-989A-55609860721E}</UniqueIdentifier>
+      <UniqueIdentifier>{38DEABC3-C46A-343B-B5E9-C15B61EBB581}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{A0E9F79F-DB75-352C-9255-10BED24B6946}</UniqueIdentifier>
+      <UniqueIdentifier>{6A497AA7-10B9-380B-AA5C-58479F8EFFCB}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

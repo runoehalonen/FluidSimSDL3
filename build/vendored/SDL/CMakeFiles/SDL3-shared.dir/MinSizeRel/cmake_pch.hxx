@@ -2,5 +2,5 @@
 
 #pragma system_header
 #ifdef __cplusplus
-#include "G:/fluidsimc/vendored/SDL/src/SDL_internal.h"
+#include "G:/gitrepos/FluidSimSDL3/vendored/SDL/src/SDL_internal.h"
 #endif // __cplusplus
