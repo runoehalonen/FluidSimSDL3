@@ -1,0 +1,7 @@
+G:/fluidsimc/build/CMakeFiles/main.dir
+G:/fluidsimc/build/CMakeFiles/ALL_BUILD.dir
+G:/fluidsimc/build/CMakeFiles/ZERO_CHECK.dir
+G:/fluidsimc/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
+G:/fluidsimc/build/vendored/SDL/CMakeFiles/SDL3_test.dir
+G:/fluidsimc/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
+G:/fluidsimc/build/vendored/SDL/CMakeFiles/ALL_BUILD.dir
